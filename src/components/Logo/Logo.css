@@ -1,0 +1,4 @@
+.Tile {	
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(63,63,162,1) 33%, rgba(0,212,255,1) 100%);
+}
