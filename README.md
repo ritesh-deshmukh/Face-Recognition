@@ -18,15 +18,15 @@ CSS Libraries Used:
 	
 	tachyons - https://www.npmjs.com/package/tachyons
 	
-	patterns gallery - http://lea.verou.me/css3patterns/
+	patterns gallery - http://lea.verou.me/css3patterns
 	
-	css gradient - https://cssgradient.io/
+	css gradient - https://cssgradient.io
 
 
 
 API used:
 	
-	Clarifai - https://clarifai.com/developer/guide/
+	Clarifai - https://clarifai.com/developer/guide
 	
 
 
