@@ -26,7 +26,7 @@ CSS Libraries Used:
 
 API used:
 	
-	Clarifai
+	Clarifai - https://clarifai.com/developer/guide/
 	
 
 
