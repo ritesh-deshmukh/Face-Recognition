@@ -1,5 +1,6 @@
 A React App for Face Recognition in an Image.
 
+Download/Clone -> npm install -> npm start -> add your api key
 
 
 Components Used:
