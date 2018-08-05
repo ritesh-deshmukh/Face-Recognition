@@ -2,6 +2,8 @@ A React App for Face Recognition in an Image
 
 Download/Clone -> npm install -> npm start -> add your api key
 
+Front-End:
+
 Components Used:
 
 	react-particles - https://www.npmjs.com/package/react-particles-js
@@ -27,3 +29,20 @@ CSS Libraries Used:
 API used:
 	
 	Clarifai - https://clarifai.com/developer/guide
+
+
+Back-End:
+
+Components Used:
+
+	nodejs - https://nodejs.org/en/
+	
+	express - https://www.npmjs.com/package/express
+
+	body-parser - https://www.npmjs.com/package/body-parser
+
+	
+
+Editor Used:
+	
+	Sublime Text
