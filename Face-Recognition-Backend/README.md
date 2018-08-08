@@ -7,3 +7,7 @@ Components Used:
 	express - https://www.npmjs.com/package/express
 
 	body-parser - https://www.npmjs.com/package/body-parser
+
+	knex.js - https://knexjs.org/
+
+	nodemon - https://www.npmjs.com/package/nodemon
