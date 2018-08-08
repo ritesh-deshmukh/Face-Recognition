@@ -11,3 +11,5 @@ Components Used:
 	knex.js - https://knexjs.org/
 
 	nodemon - https://www.npmjs.com/package/nodemon
+
+	bcrypt(hash passwords)  - https://www.npmjs.com/package/bcrypt

@@ -41,6 +41,12 @@ Components Used:
 
 	body-parser - https://www.npmjs.com/package/body-parser
 
+	knex.js - https://knexjs.org/
+
+	nodemon - https://www.npmjs.com/package/nodemon
+
+	bcrypt(hash passwords)  - https://www.npmjs.com/package/bcrypt
+
 	
 
 Editor Used:
