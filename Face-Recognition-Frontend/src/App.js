@@ -39,6 +39,7 @@ const initialState = {
               entries: 0,
               joined: ''
       }
+}
 
 class App extends Component {
   constructor(){
@@ -148,6 +149,5 @@ class App extends Component {
       </div>
     );
   }
-}
 
 export default App;
