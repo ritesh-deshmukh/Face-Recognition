@@ -1,8 +1,8 @@
-A React App for Face Recognition in an Image
+<h1><b>A React App for Face Recognition in an Image</b></h1>
 
-Link: https://face-recogniton.herokuapp.com/
+<h2><b>Link: https://face-recogniton.herokuapp.com/</b></h2>
 
-Download/Clone -> npm install -> npm start -> add your api key
+<i>Download/Clone -> npm install -> npm start -> add your api key</i>
 
 <h1><b>Front-End:</b></h1>
 
