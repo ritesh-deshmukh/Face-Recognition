@@ -47,8 +47,19 @@ Components Used:
 
 	bcrypt(hash passwords)  - https://www.npmjs.com/package/bcrypt
 
+Database:
+	
+	PostgreSQL
+
+
+Deploy platform:
+	
+	Heroku
+
 	
 
 Editor Used:
 	
 	Sublime Text
+
+
