@@ -1,22 +1,24 @@
 A React App for Face Recognition in an Image
 
+Link: https://face-recogniton.herokuapp.com/
+
 Download/Clone -> npm install -> npm start -> add your api key
 
-Front-End:
+<h1><b>Front-End:</b></h1>
 
-Components Used:
+<h2>Components Used:</h2>
 
 	react-particles - https://www.npmjs.com/package/react-particles-js
 	
 	react-tilt - https://www.npmjs.com/package/react-tilt
 
-Icons:
+<h2>Icons:</h2>
 	
 	Brain Icons - https://icons8.com/icon/set/brain/metro
 
 	
 
-CSS Libraries Used:
+<h2>CSS Libraries Used:</h2>
 	
 	tachyons - https://www.npmjs.com/package/tachyons
 	
@@ -26,14 +28,14 @@ CSS Libraries Used:
 
 
 
-API used:
+<h2>API used:</h2>
 	
 	Clarifai - https://clarifai.com/developer/guide
 
 
-Back-End:
+<h1><b>Back-End:</b></h1>
 
-Components Used:
+<h2>Components Used:</h2>
 
 	nodejs - https://nodejs.org/en/
 	
@@ -47,18 +49,17 @@ Components Used:
 
 	bcrypt(hash passwords)  - https://www.npmjs.com/package/bcrypt
 
-Database:
+<h1><b>Database:</b></h1>
 	
 	PostgreSQL
 
 
-Deploy platform:
+<h1><b>Deploy platform:</b></h1>
 	
 	Heroku
 
 	
-
-Editor Used:
+<h1><b>Editor Used:</b></h1>
 	
 	Sublime Text
 
